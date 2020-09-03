@@ -35,13 +35,13 @@ opponent’s court leading to a point
 
 ## Correlation (Win Pct ~ all independent variables)
 
-![](plots/correlation_matrix.png {:height="15px" width="15px"})
+![](plots/correlation_matrix.png)<!-- .element height="50%" width="50%" -->
 
 
 
 # Linear model results
 
-![](plots/linear_model_results.png {:height="15px" width="15px"})
+![](plots/linear_model_results.png)<!-- .element height="50%" width="50%" -->
 
 
 
