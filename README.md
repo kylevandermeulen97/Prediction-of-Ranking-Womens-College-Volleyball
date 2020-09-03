@@ -33,7 +33,7 @@ opponent’s court leading to a point
 
 
 
-### Correlation (Win Pct ~ all independent variables)
+## Correlation (Win Pct ~ all independent variables)
 
 ![](plots/correlation_matrix.png)
 
