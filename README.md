@@ -7,20 +7,32 @@ The goal of this study is to determine which factors are significant in winning 
 ## Data Description
 
 **Sets (S)** The amount of games a team played over the course of the season Kills Attacks by a player that directly leads to a point
+
 **Errors** An attack that directly results in a point for the opposing team Total Attacks The sum of a team’s attacks over the season
+
 **Hitting Percentage (Pct)** Hitting % = (Kills – Errors) / Total Attacks
+
 **Assists** When a player passes, sets, or digs the ball to a teammate who attacks the ball for a kill Digs A player passes that ball that has been attacked by the opposition
+
 **Aces** A serve that directly results in a point
+
 **Solo Blocks** A single player blocks the ball into the opponent’s court leading to a point
+
 **Block Assists** Awarded when multiple players are involved in blocking the ball into the
 opponent’s court leading to a point
+
 **Total Blocks (TB)** The sum of a team’s blocks over the season
+
 **Opponent Kills** Attacks by an opposing player that directly leads to a point
+
 **Opponent Errors** An attack by the opposition that directly results in a point for the other team Opponent Attacks The sum of an opposing team’s attacks over the season
+
 **Opponent Hitting Pct** Opponent Hitting % = (Kills – Errors) / Total Attacks
 
 
 ### Correlation (Win Pct ~ all independent variables)
+
+![](plots/correlation_matrix.png)
 
 
 
