@@ -30,9 +30,22 @@ opponent’s court leading to a point
 **Opponent Hitting Pct** Opponent Hitting % = (Kills – Errors) / Total Attacks
 
 
+
+
+
 ### Correlation (Win Pct ~ all independent variables)
 
 ![](plots/correlation_matrix.png)
+
+
+
+## Linear model results
+
+![](plots/linear_model_results.png)
+
+
+
+In reference to the results we can see the negative significant factors as such, the amount of sets a team played over the course of the season, errors committed, and opponent kills. The more sets a team played over the course of a season the more fatigued the team as a whole and individual players, which in turn decreased a team’s overall win percentage. The total errors a team commits obviously decrease a team’s win percentage. Lastly, the number of opponent kills will result in opponent’s points which will decrease your team’s odds of winning. Something interesting to see was the opposite effect of kills and errors, which in turn will cancel each other out. Also, aces were positively significant in increasing a team’s win percentage and the most positive significant factor was the amount of errors the opposing team committed. This factor being the highest positive coefficient was unexpected.
 
 
 
