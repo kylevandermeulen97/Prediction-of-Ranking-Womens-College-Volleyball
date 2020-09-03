@@ -35,13 +35,13 @@ opponent’s court leading to a point
 
 ## Correlation (Win Pct ~ all independent variables)
 
-![](plots/correlation_matrix.png)<!-- .element height="50%" width="50%" -->
+![](plots/correlation_matrix.png)
 
 
 
 # Linear model results
 
-![](plots/linear_model_results.png)<!-- .element height="50%" width="50%" -->
+![](plots/linear_model_results.png)
 
 
 
@@ -51,7 +51,7 @@ In reference to the results we can see the negative significant factors as such,
 
 # Logistic model results
 
-![](plots/logit_model_results.png {:height="15px" width="15px"})
+![](plots/logit_model_results.png)
 
 
 
@@ -63,7 +63,7 @@ From the table we can see four significant predictors of win percentage. Once ag
 
 Corresponding to the data analysis we were able to filter out the key significant factors from our beginning variables of interest list. The most significant variable that was found through the analysis was the total count of the errors an opponent committed.
 
-![](plots/opp_errors_WinPct.scatter.png {:height="15px" width="15px"})
+![](plots/opp_errors_WinPct.scatter.png)
 
 
 
@@ -72,7 +72,7 @@ The plot highlights the strong positive correlation between an accumulation of o
 
 ## Fitted Values vs. Actual Values
 
-![](plots/fitted_model_results.png {:height="15px" width="15px"})
+![](plots/fitted_model_results.png)
 
 
 
